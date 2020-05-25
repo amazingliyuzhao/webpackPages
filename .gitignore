@@ -1,0 +1,7 @@
+.*
+!.gitignore
+/target/
+node_modules/
+npm-debug.log
+dist
+dev/
